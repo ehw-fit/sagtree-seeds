@@ -4,7 +4,8 @@ This repository provides source codes in Verilog of the circuits used as seeds i
 
 For more details please follow this article:
 
-TBD
+ČEŠKA Milan, MATYÁŠ Jiří, MRÁZEK Vojtěch, SEKANINA Lukáš, VAŠÍČEK Zdeněk and VOJNAR Tomáš. SagTree: Towards Efficient Mutation in Evolutionary Circuit Approximation. Swarm and Evolutionary Computation, vol. 69, no. 100986, 2022, pp. 1-10. ISSN 2210-6502. Available from: https://www.sciencedirect.com/science/article/pii/S2210650221001486
+
 
 ## Circuits
 The seed circuits are accurate - i.e., no error was injected to the code.
